@@ -46,7 +46,7 @@ Shipping Delay – Average days between order and delivery.
 **Dash Board**
 <img width="1228" height="715" alt="image" src="https://github.com/user-attachments/assets/983882e4-72a7-43b9-946c-d4013955a617" />
 
-
+<img width="1254" height="661" alt="image" src="https://github.com/user-attachments/assets/754138f1-4383-4295-815d-39ac10bfba42" />
 
 
 
